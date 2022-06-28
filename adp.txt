@@ -1,6 +1,7 @@
 [Adblock Plus 3.1]
 ! Title: Adblock Plus personal
 ! Expires: 1 days (update frequency)
+!
 !------------------------Specific element hiding rules------------------------!
 baidu.com###s-hotsearch-wrapper
 baidu.com##.FYB_RD
