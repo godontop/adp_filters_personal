@@ -1,2 +1,3 @@
+! Title: Adblock Plus personal
 baidu.com###s-hotsearch-wrapper
 baidu.com##.FYB_RD
