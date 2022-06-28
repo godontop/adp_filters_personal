@@ -1,10 +1,2 @@
-[Adblock Plus 3.14]
-! Version: 20221714
-! Title: Adblock Plus personal
-! Last modified: 2022-06-28 17:15
-! Expires: 1 days (update frequency)
-! Homepage: https://github.com/godontop/adp_filters_personal/
-! Baidu Homepage Hot Search
 baidu.com###s-hotsearch-wrapper
-! Baidu right hand Hot Search
 baidu.com##.FYB_RD
