@@ -1,7 +1,11 @@
 [Adblock Plus 3.1]
+! Version: 20221714
 ! Title: Adblock Plus personal
+! Last modified: 2022-06-28 17:40
 ! Expires: 1 days (update frequency)
+! Homepage: https://github.com/godontop/adp_filters_personal/
 !
 !------------------------Specific element hiding rules------------------------!
 baidu.com###s-hotsearch-wrapper
 baidu.com##.FYB_RD
+!
