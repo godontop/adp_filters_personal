@@ -1,5 +1,4 @@
-[Adblock Plus 3.1]
 ! Title: Adblock Plus personal
-! Baidu Homepage Hot Search
+!------------------------Specific element hiding rules------------------------!
 baidu.com###s-hotsearch-wrapper
 baidu.com##.FYB_RD
