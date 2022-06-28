@@ -1,5 +1,5 @@
+[Adblock Plus 3.1]
 ! Baidu Homepage Hot Search
 baidu.com###s-hotsearch-wrapper
-
 ! Baidu right hand Hot Search
 baidu.com##.FYB_RD
