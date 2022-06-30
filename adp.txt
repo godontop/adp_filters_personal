@@ -1,4 +1,3 @@
-! Baidu Homepage hot search
+baidu.com###m
 baidu.com###s-hotsearch-wrapper
-! Baidu right hand hot search
 baidu.com##.FYB_RD
