@@ -1,3 +1,5 @@
 baidu.com###m
 baidu.com###s-hotsearch-wrapper
 baidu.com##.FYB_RD
+# 过滤今日头条class属性为s-side-list的div下面的data-i属性为“1”的div节点。
+so.toutiao.com##.s-side-list > div[data-i="1"]
